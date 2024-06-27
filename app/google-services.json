@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "165979719499",
+    "firebase_url": "https://feedback-cf907-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "feedback-cf907",
+    "storage_bucket": "feedback-cf907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165979719499:android:405f4bfeac78d9973a8ace",
+        "android_client_info": {
+          "package_name": "com.example.emoji_prediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4XJ0VsnRJ6NIPvJOKvhtEIZCL0maQPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
